@@ -1,0 +1,12 @@
+<resources>
+    <declare-styleable name="UserInitialCircleView">
+        <attr name="initial_text_circle_view" format="string"/>
+        <attr name="initial_size_circle_view" format="dimension" />
+        <attr name="stroke_width_circle_view" format="float" />
+        <attr name="fill_radius_circle_view" format="float" />
+        <attr name="initial_color_circle_view" format="color" />
+        <attr name="inner_color_circle_view" format="color" />
+        <attr name="shadow_color_circle_view" format="color" />
+        <attr name="main_stroke_color_circle_view" format="color" />
+    </declare-styleable>
+</resources>
